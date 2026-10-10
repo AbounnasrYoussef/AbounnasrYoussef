@@ -8,8 +8,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abounnasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abounnasr-b01386250/)
-[![42 Intra](https://img.shields.io/badge/42%20Intra-YOUR_LOGIN-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/YOUR_LOGIN)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![42 Intra](https://img.shields.io/badge/42%20Intra-YOUR_LOGIN-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/yabounna)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](abounnasryoussef@gmail.com)
 
 </div>
 
@@ -32,6 +32,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-2C2D72?style=flat&logo=gnu&logoColor=white)
