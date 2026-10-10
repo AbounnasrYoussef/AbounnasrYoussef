@@ -32,7 +32,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
@@ -61,7 +60,6 @@ t_me	youssef = {
 	.languages = {"C", "C++", "Python", "JavaScript", "TypeScript", "Bash"},
 	.web       = {"HTML", "CSS", "React", "Node.js"},
 	.devops    = {"Docker", "Docker Compose", "Nginx", "Linux", "Red Hat"},
-	.networking = {"Cisco CCNA (in progress)", "TCP/IP"},
 	.hardware  = {"Arduino"},
 	.databases = {"MariaDB", "PostgreSQL", "SQLite"},
 	.tools     = {"Git", "Make", "Vim", "VS Code", "Valgrind / GDB"},
