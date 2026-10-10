@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="12%" alt="Nerd face"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=AbounnasrYoussef&style=flat&color=blue&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abounnasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abounnasr-b01386250/)
 [![42 Intra](https://img.shields.io/badge/42%20Intra-YOUR_LOGIN-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/YOUR_LOGIN)
 [![Gmail](https://img.shields.io/badge/Gmail-abounnasryoussef-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abounnasryoussef@gmail.com)
