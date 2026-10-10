@@ -6,9 +6,11 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="12%" alt="Nerd face"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=AbounnasrYoussef&style=flat&color=blue&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abounnasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abounnasr-b01386250/)
-[![Email](https://img.shields.io/badge/Email-abounnasryoussef@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](abounnasryoussef@gmail.com)
+[![42 Intra](https://img.shields.io/badge/42%20Intra-YOUR_LOGIN-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/YOUR_LOGIN)
+[![Gmail](https://img.shields.io/badge/Gmail-abounnasryoussef-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abounnasryoussef@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AbounnasrYoussef-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbounnasrYoussef)
 
 </div>
 
@@ -30,8 +32,10 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-2C2D72?style=flat&logo=gnu&logoColor=white)
@@ -45,7 +49,9 @@ typedef struct s_me
 	char	*school;
 	char	*languages[6];
 	char	*web[4];
-	char	*devops[4];
+	char	*devops[5];
+	char	*networking[2];
+	char	*hardware[1];
 	char	*databases[3];
 	char	*tools[5];
 }	t_me;
@@ -55,15 +61,18 @@ t_me	youssef = {
 	.school    = "1337 Coding School (42 Network)",
 	.languages = {"C", "C++", "Python", "JavaScript", "TypeScript", "Bash"},
 	.web       = {"HTML", "CSS", "React", "Node.js"},
-	.devops    = {"Docker", "Docker Compose", "Nginx", "Linux"},
+	.devops    = {"Docker", "Docker Compose", "Nginx", "Linux", "Red Hat"},
+	.networking = {"Cisco CCNA (in progress)", "TCP/IP"},
+	.hardware  = {"Arduino"},
 	.databases = {"MariaDB", "PostgreSQL", "SQLite"},
 	.tools     = {"Git", "Make", "Vim", "VS Code", "Valgrind / GDB"},
 };
 ```
 
 - 🎓 &nbsp; Student at **1337 (42 Network)** — peer-to-peer learning, no teachers, just code.
-- 🔭 &nbsp; I'm currently working on **[current 42 project]**.
-- 🌱 &nbsp; I'm learning **[what you're learning now]**.
+- 🔭 &nbsp; I'm currently working on **ft_transcendence**.
+- 🌱 &nbsp; I'm currently studying for the **Cisco CCNA** on my way to becoming a **System Administrator**.
+- 🔌 &nbsp; I also enjoy tinkering with **Arduino** and electronics.
 - 🐧 &nbsp; I like low-level programming, **Unix systems** and understanding how things work under the hood.
 - 💬 &nbsp; Ask me about **C, memory management, shells, or anything**.
 - ⚡ &nbsp; Fun fact: at 42, a project passes only when your **peers** say it does.
@@ -90,10 +99,10 @@ t_me	youssef = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbounnasrYoussef&show_icons=true&theme=nord&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbounnasrYoussef&layout=compact&theme=nord&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=nord&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=AbounnasrYoussef&theme=nord&hide_border=true" width="60%"/>
 
 <hr>
 
