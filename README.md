@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abounnasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abounnasr-b01386250/)
-[![42 Intra](https://img.shields.io/badge/42%20Intra-YOUR_LOGIN-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/yabounna)
+[![42 Intra](https://img.shields.io/badge/42%20Intra-YOUR_LOGIN-black?style=flat&logo=42&logoColor=white)](Yabounna)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](abounnasryoussef@gmail.com)
 
 </div>
