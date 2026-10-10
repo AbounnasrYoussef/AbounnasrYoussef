@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abounnasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abounnasr-b01386250/)
 [![42 Intra](https://img.shields.io/badge/42%20Intra-Yabounna-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/yabounna)
-[![Gmail](https://img.shields.io/badge/Gmail-abounnasryoussef-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abounnasryoussef@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-abounnasryoussef@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abounnasryoussef@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AbounnasrYoussef-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbounnasrYoussef)
 
 </div>
