@@ -74,24 +74,6 @@ t_me	youssef = {
 - 💬 &nbsp; Ask me about **C, memory management, shells, or anything**.
 - ⚡ &nbsp; Fun fact: at 42, a project passes only when your **peers** say it does.
 
-<hr>
-
-## 🏫 42 Common Core
-
-| Circle | Projects |
-|:---:|---|
-| 0 | `Libft` |
-| 1 | `ft_printf` · `get_next_line` · `Born2beroot` |
-| 2 | `push_swap` · `pipex` / `minitalk` · `so_long` / `FdF` / `fract-ol` |
-| 3 | `Philosophers` · `minishell` |
-| 4 | `NetPractice` · `cub3D` / `miniRT` · `CPP Modules 00–04` |
-| 5 | `Inception` · `webserv` / `ft_irc` · `CPP Modules 05–09` |
-| 6 | `ft_transcendence` |
-
-<sub>✅ Keep only the projects you've completed, or add ✅ / 🚧 next to each one.</sub>
-
-<hr>
-
 <div align="center">
 
 ## 📊 GitHub Stats
